@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Omniedge</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 05 Mar 2021 00:23:08 +0800</pubDate>
+            <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/kidylee/omniedge/master/Omniedge-0.1.0.dmg" sparkle:version="0.1.0" sparkle:shortVersionString="0.1.0" length="6213949" type="application/octet-stream" sparkle:edSignature="IebrIW6vXdKiqtUuI+DOBVeCo8mQg+DaJCaD8oQiOrejW28WlZfFk6igocdW+PeIPGkq0Yyf1w0V7UwoiGMGAg=="/>
+        </item>
+    </channel>
+</rss>
